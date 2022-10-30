@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Alexander Terenin"]
   spec.email         = ["aterenin@users.noreply.github.com"]
 
-  spec.summary       = %q{}
+  spec.summary       = 
   spec.homepage      = "https://github.com/aterenin/minima-reboot"
   spec.license       = "MIT"
 
