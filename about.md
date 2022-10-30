@@ -4,6 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is Minima Reboot, a Bootstrap-based rewrite of [Minima](https://github.com/jekyll/minima), the base Jekyll theme. It is designed to be lightweight, easy-to-use, and responsive.
+Hello! My name is Ignacio, I am a Ph. D. Candidate in Economics and predoctoral fellow at Universitat de Barcelona (UB).
+My fields of interests are applied finance and macroeconomics, forecasting, and machine learning, with special focus on forecasting risks in economics and finance.
 
-You can find Minima Reboot's source code at: [minima-reboot](https://github.com/aterenin/minima-reboot).
+Before joining the UB, I worked as a Senior Financial Analyst at the Central Bank of Bolivia (BCB), as an Economist at the Center for Latin American Monetary Studies (CEMLA), and as a Junior Researcher at the Instituto de Investigaciones Socioeconómicas - Universidad Católica Boliviana.
+
+https://github.com/IgnacioGarronhttps://github.com/IgnacioGarron
