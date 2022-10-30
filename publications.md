@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 description: "PhD work in progress"
-permalink: /publications/
+permalink: /page/
 ---
 
 Recent publications (more in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&user=nW7GW-kAAAAJ)):

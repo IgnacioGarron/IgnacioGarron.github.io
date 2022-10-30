@@ -9,4 +9,4 @@ My fields of interests are applied finance and macroeconomics, forecasting, and 
 
 Before joining the UB, I worked as a Senior Financial Analyst at the Central Bank of Bolivia (BCB), as an Economist at the Center for Latin American Monetary Studies (CEMLA), and as a Junior Researcher at the Instituto de Investigaciones Socioeconómicas - Universidad Católica Boliviana.
 
-https://github.com/IgnacioGarronhttps://github.com/IgnacioGarron
+https://github.com/IgnacioGarron
