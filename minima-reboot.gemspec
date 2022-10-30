@@ -6,7 +6,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Alexander Terenin"]
   spec.email         = ["aterenin@users.noreply.github.com"]
 
-  spec.summary       = 
+  spec.summary       = %q{A Bootstrap port of Minima, Jekyll's default theme.}
   spec.homepage      = "https://github.com/aterenin/minima-reboot"
   spec.license       = "MIT"
 
