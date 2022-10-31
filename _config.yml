@@ -18,12 +18,12 @@ minima_reboot:
 header_pages:
 - about.md
 - publications.md
-- github.md
+#- github.md
 
 footer_icons:
 - username: IgnacioGarron
-  url: https://github.com/IgnacioGarron
-  icon: icon-github.svg
+ # url: https://github.com/IgnacioGarron
+ # icon: icon-github.svg
 
 paginate: 5
 
