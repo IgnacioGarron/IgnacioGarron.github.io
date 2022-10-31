@@ -15,6 +15,12 @@ Before joining the UB, I worked as a Senior Financial Analyst at the Central Ban
 - Master in Economics (2014), Universitat Pompeu Fabra
 - Bs in Economics (2013), Universidad Privada Boliviana
 
+**TA Courses**
+
+• Fall 2022. Time series analysis, Universitat de Barcelona (Statistics undergrad). 
+
+• Fall 2021. Time series analysis, Universitat de Barcelona (Statistics undergrad).
+
 **Skills**
 
 - R, Python, Stata, Sql.
