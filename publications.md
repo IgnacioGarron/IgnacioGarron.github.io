@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: allposts
 title: Publications
 description: "PhD work in progress"
 permalink: /posts/
