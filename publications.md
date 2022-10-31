@@ -1,8 +1,8 @@
 ---
-layout: allposts
+layout: page
 title: Publications
 description: "PhD work in progress"
-permalink: /posts/
+permalink: /publications/
 ---
 
 Recent publications (more in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&user=nW7GW-kAAAAJ)):
