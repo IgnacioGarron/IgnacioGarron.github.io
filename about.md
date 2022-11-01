@@ -12,7 +12,7 @@ Before joining the UB, I worked as a Senior Financial Analyst at the Central Ban
 **Education**
 
 - PhD in Economics (expected 2023), Universitat de Barcelona
-- Master in Economics (2014), Universitat Pompeu Fabra
+- Master in Economics (2014), Barcelona School of Economics & Universitat Pompeu Fabra
 - Bs in Economics (2013), Universidad Privada Boliviana
 
 **TA Courses**

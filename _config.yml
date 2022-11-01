@@ -18,7 +18,7 @@ minima_reboot:
 header_pages:
 - about.md
 - publications.md
-#- teaching.md
+- teaching.md
 #- github.md
 
 footer_icons:
