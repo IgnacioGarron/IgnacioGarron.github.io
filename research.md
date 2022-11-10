@@ -15,7 +15,7 @@ Recent publications (more in my [Google Scholar profile](https://scholar.google.
 Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
     
 
-    ![alt text](assets/Figure%201a.jpg)
+![](assets/Figure1a.jpg)
 
 
 2. Daily Growth at Risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **R&R International Journal of Forecasting**. 
