@@ -17,7 +17,7 @@ minima_reboot:
 
 header_pages:
 - about.md
-- publications.md
+- research.md
 - teaching.md
 #- github.md
 

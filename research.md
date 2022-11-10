@@ -1,18 +1,23 @@
 ---
 layout: page
-title: Publications
+title: Research
 description: "PhD work in progress"
-permalink: /publications/
+permalink: /research/
 ---
 
 Recent publications (more in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&user=nW7GW-kAAAAJ)):
 
 **PhD work in progress**
 
+
     
 1. Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**.
 Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
     
+
+    ![alt text](assets/Figure%201a.jpg)
+
+
 2. Daily Growth at Risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **R&R International Journal of Forecasting**. 
 Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Universitat de Barcelona, Spain).
 
