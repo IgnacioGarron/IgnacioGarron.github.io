@@ -13,18 +13,26 @@ permalink:
 
 [Find my CV here!](/assets/CV_061122%20(1).pdf)
 
-**Education**
 
-- PhD in Economics (expected 2023), Universitat de Barcelona
-- Master in Economics (2014), Barcelona School of Economics & Universitat Pompeu Fabra
-- Bs in Economics (2013), Universidad Privada Boliviana
+**Mágica ciudad del Illimani**
 
-**TA Courses**
+Cuna de libertad
+Majestuosa de día
+Encantadora de noche
+Deslumbrante siempre
+Para quien te ve…
+Hoy como ayer
+Quienes por tus calles pasearon
+y Quienes por tu cielo volaron
+Te recuerdan de corazón
+Como la ciudad de noble
+nombre y de mágico
+esplendor…!
+Coronada de Paz y Bien
+A ti…bella Señora…!!!
+Llena de gracia e inscripción
+Para tus hijos pedimos y
+Para quienes te amamos
+Derrames tu bendición…!!!!
 
-• Fall 2022. Time series analysis, Universitat de Barcelona (Statistics undergrad). 
-
-• Fall 2021. Time series analysis, Universitat de Barcelona (Statistics undergrad).
-
-**Skills**
-
-- R, Python, Stata, Sql.
+Poema: Mirtha Villarroel García
