@@ -21,7 +21,7 @@ Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Un
 
 <div style="text-align: center;">
 
-<img src="assets/FIG_global.png" height="300"/>
+<img src="assets/FIG_global.png" height="400"/>
     
 </div>
 
@@ -30,7 +30,7 @@ Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
 
 <div style="text-align: center;">
 
-<img src="assets/RealMIDAS4overall.png" height="300"/>
+<img src="assets/RealMIDAS4overall.png" height="350"/>
 
 </div>
 
