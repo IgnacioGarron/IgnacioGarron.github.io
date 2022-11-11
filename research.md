@@ -9,18 +9,30 @@ Recent publications (more in my [Google Scholar profile](https://scholar.google.
 
 **PhD work in progress**
 
+<div style="text-align: center;">
 
-<img src="assets/Figure1a.jpg" height="300"/>
+<img src="assets/Figure1a.jpg" height="400"/>
+
+</div>
+
 
 #1. Daily Growth at Risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **Job Market Paper.** **R&R International Journal of Forecasting**. 
 Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Universitat de Barcelona, Spain).
 
+<div style="text-align: center;">
+
 <img src="assets/FIG_global.png" height="300"/>
     
+</div>
+
 #2. Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**.
 Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
 
+<div style="text-align: center;">
+
 <img src="assets/RealMIDAS4overall.png" height="300"/>
+
+</div>
 
 
 #3. Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted Applied Economics Letters.**
