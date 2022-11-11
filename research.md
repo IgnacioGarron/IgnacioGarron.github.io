@@ -16,7 +16,7 @@ Recent publications (more in my [Google Scholar profile](https://scholar.google.
 </div>
 
 
-#1. Daily Growth at Risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **Job Market Paper.** **R&R International Journal of Forecasting**. 
+1. Daily Growth at Risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **Job Market Paper.** **R&R International Journal of Forecasting**. 
 Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Universitat de Barcelona, Spain).
 
 <div style="text-align: center;">
@@ -25,7 +25,7 @@ Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Un
     
 </div>
 
-#2. Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**.
+2. Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**.
 Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
 
 <div style="text-align: center;">
@@ -35,10 +35,10 @@ Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
 </div>
 
 
-#3. Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted Applied Economics Letters.**
+3. Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted Applied Economics Letters.**
 Presented at the 42nd International Symposium on Forecasting, University of Oxford.
 
-#4. Forecasting inflation at risk: via Phillips or data-driven approach?
+4. Forecasting inflation at risk: via Phillips or data-driven approach?
 
     
     
