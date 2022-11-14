@@ -8,7 +8,7 @@ permalink:
 <div style="text-align: center;">
 
 
-<img src="assets/La_Paz_Skyline.jpg" height="300" title="La Paz, Bolivia" />
+<img src="assets/La_Paz_Skyline.jpg" height="400" title="La Paz, Bolivia" />
 
 </div>
 
