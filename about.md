@@ -6,9 +6,9 @@ permalink:
 
 <div style="text-align: center;">
 
-La Paz, Bolivia
-<img src="assets/La_Paz_Skyline.jpg" height="300" />
 
+<img src="assets/La_Paz_Skyline.jpg" height="300" />
+<h2>La Paz, Bolivia</h2>
 </div>
 
 
