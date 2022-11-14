@@ -16,7 +16,7 @@ minima_reboot:
   date_format_short: "%b %-d"
 
 header_pages:
-- about.md
+- CV.md
 - research.md
 - teaching.md
 #- github.md
