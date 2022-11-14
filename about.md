@@ -6,7 +6,7 @@ permalink:
 
 <div style="text-align: center;">
 
-<h3>La Paz, Bolivia</h3>
+La Paz, Bolivia
 <img src="assets/La_Paz_Skyline.jpg" height="300" />
 
 </div>
