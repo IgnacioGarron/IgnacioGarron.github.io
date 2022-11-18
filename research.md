@@ -30,10 +30,10 @@ Recent publications (more in my [Google Scholar profile](https://scholar.google.
     - Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
 
 
-
 3. Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted.**
 
     - Presented at the 42nd International Symposium on Forecasting, University of Oxford.
+    
 
 4. Forecasting inflation at risk: via Phillips or data-driven approach?
 
