@@ -16,9 +16,9 @@ Recent publications (more in my [Google Scholar profile](https://scholar.google.
 
     - Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Universitat de Barcelona, Spain).
 
-    - [Presentation  here!](/assets/Chapter_2_presentation.pdf).
+    - [Presentation  here!](/assets/Chapter_2_presentation.pdf)
 
-    - [Job Market Paper here!](/assets/JMP.pdf).
+    - [Job Market Paper here!](/assets/JMP.pdf)
 
     - Code for replication will be available soon!
 <p>&nbsp;</p>
