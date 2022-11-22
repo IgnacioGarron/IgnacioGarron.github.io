@@ -7,7 +7,7 @@ permalink:
 
 Recent publications (more in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&user=nW7GW-kAAAAJ)):
 
-**PhD work in progress**
+**Working papers**
 
 
 
