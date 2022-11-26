@@ -26,16 +26,17 @@ Recent publications (more in my [Google Scholar profile](https://scholar.google.
 - Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**.
     
     - Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
-<p>&nbsp;</p>
 
     - [WP version here (latest version will be available soon).](https://www.ub.edu/irea/working_papers/2021/202106.pdf)
- 
+ <p>&nbsp;</p>
+
 - Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted.**
 
-    - Presented at the 42nd International Symposium on Forecasting, University of Oxford.
- <p>&nbsp;</p>  
+    - Presented at the 42nd International Symposium on Forecasting, University of Oxford. 
+    
+    - [WP version here.](hhttps://www.ub.edu/irea/working_papers/2022/202211.pdf)
 
-     - [WP version here.](hhttps://www.ub.edu/irea/working_papers/2022/202211.pdf)
+ <p>&nbsp;</p> 
 
 - Forecasting inflation at risk: via Phillips or data-driven approach?
 
