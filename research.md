@@ -34,7 +34,7 @@ Recent publications (more in my [Google Scholar profile](https://scholar.google.
 
     - Presented at the 42nd International Symposium on Forecasting, University of Oxford. 
     
-    - [WP version here.](hhttps://www.ub.edu/irea/working_papers/2022/202211.pdf)
+    - [WP version here.](https://www.ub.edu/irea/working_papers/2022/202211.pdf)
 
  <p>&nbsp;</p> 
 
