@@ -12,7 +12,7 @@ Recent publications (more in my [Google Scholar profile](https://scholar.google.
 
 
 
-- Daily Growth at Risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **Job Market Paper.** **R&R International Journal of Forecasting**.
+- Daily Growth at Risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **Job Market Paper.** **Second round R&R International Journal of Forecasting**.
 
     - Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Universitat de Barcelona, Spain).
 
