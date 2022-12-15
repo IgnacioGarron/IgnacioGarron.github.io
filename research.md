@@ -10,7 +10,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 **Publications**
 
-- 2020: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas [**Journal of Development Effectiveness 14 (2), 125-142**.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934)
+- 2022: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas [**Journal of Development Effectiveness 14 (2), 125-142**.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934)
 
 - 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and Jonathan Barbosa. [**Journal of Consumer Affairs 53 (2), 296-323**.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187)
 
