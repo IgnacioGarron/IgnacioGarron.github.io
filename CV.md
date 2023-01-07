@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: 
+description: "CV"
 ---
 [Find my CV here!](/assets/CV_061122%20(1).pdf)
 

@@ -2,7 +2,6 @@
 layout: page
 title: Research
 description: "PhD work in progress"
-permalink: 
 ---
 
 More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&user=nW7GW-kAAAAJ).
