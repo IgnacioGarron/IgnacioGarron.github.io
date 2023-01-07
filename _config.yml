@@ -1,4 +1,4 @@
-title: About
+title: Personal website
 author: Ignacio Garrón
 email: igarron@ub.edu
 remote_theme: aterenin/minima-reboot
@@ -17,6 +17,7 @@ minima_reboot:
 
 header_pages:
 - About.md
+- posts.md
 - CV.md
 - research.md
 - teaching.md
