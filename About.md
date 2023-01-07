@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: "About"
+permalink: /about/
 ---
 
 <div style="text-align: center;">
