@@ -32,10 +32,10 @@ title: About
 <p>
 - <a href="/assets/CV_061122 (1).pdf">CV here!</a>
 
+<br> - <a href="/assets/JMP.pdf">Job Market Paper (forecasting) here!</a>
 
-<br> - <a href="/assets/Chulia_Garron_Uribe_203.pdf">Job Market Paper related to international finance here!</a>
+<br> - <a href="/assets/Chulia_Garron_Uribe_203.pdf">Additional JMP (international finance) here!</a>
 
-<br> - <a href="/assets/JMP.pdf">Job Market Paper related to forecasting here!</a>
 
 
 </p>
