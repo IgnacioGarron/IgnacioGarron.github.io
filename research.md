@@ -18,21 +18,21 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 **Working papers**
 
+- Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**.
+    
+    - Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
+
+    - [Job Market Paper latest version (international finance)!](/assets/Chulia_Garron_Uribe_2023.pdf)
+
 - Daily Growth at Risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **Job Market Paper.** **Second round R&R International Journal of Forecasting**.
 
     - Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Universitat de Barcelona, Spain).
 
     - [Presentation  here!](/assets/Chapter_2_presentation.pdf)
 
-    - [Job Market Paper here!](/assets/JMP.pdf)
+    - [Job Market Paper (forecasting)!](/assets/JMP.pdf)
 
     - Code for replication will be available soon!
-
-- Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**.
-    
-    - Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
-
-    - [WP version here (latest version will be available soon).](https://www.ub.edu/irea/working_papers/2021/202106.pdf)
 
 - Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted.**
 
