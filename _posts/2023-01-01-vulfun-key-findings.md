@@ -1,0 +1,6 @@
+---
+layout: post
+title: "New version! Vulnerable Funding in the Global Economy"
+---
+
+We study the international propagation of financial conditions from the United States to global financial markets. The impact is highly heterogeneous along the quantiles of the distribution of the two major funding sources, credit and equity. Indeed, it is greater in the lower quantiles, which means that, like vulnerable growth episodes examined by past literature, there is also vulnerable funding periods of a global scale that result from financial weakness in the US. By analyzing the effect on US financial shocks on credit, stocks and GDP growth, we show that these episodes are related and affect global financial markets and real markets around the world. Our estimates differentiate shocks to financial conditions (financial conditions or financial uncertainty). This distinction is shown to be relevant as it uncovers a complex propagation of shocks via different economic channels. We also document a heterogeneous impact across countries. In the case of credit growth this heterogeneity is better explained by the size or depth of the markets and financial connection to the US, while in the case of stock markets, the explanation is rooted in the strength of the financial connectedness with the US and capital account openness, in addition to the former.
