@@ -32,7 +32,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
     
     - Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
 
-    - [Job Market Paper latest version (international finance)!](/assets/Chulia_Garron_Uribe_2023.pdf)
+    - [Additional JMP (international finance)!](/assets/Chulia_Garron_Uribe_2023.pdf)
 
 
 - Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted.**
