@@ -41,7 +41,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
     
     - [WP version here.](https://www.ub.edu/irea/working_papers/2022/202211.pdf)
 
-- Forecasting inflation at risk: via Phillips or data-driven approach?
+- Forecasting inflation risk around the globe.
 
     - WP soon!
     
