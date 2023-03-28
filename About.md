@@ -17,10 +17,11 @@ title: About
 
     Hello! My name is Ignacio, I am a Ph. D. Candidate in Economics and predoctoral fellow at 
     <a href="https://www.ub.edu/school-economics/phd_students/garron-ignacio/">Universitat de Barcelona (UB).</a>
-    I will be on the 2022-2023 Econ Job Market, and available for interviews.
-    
+    I will be joinning the Statistics Deparment of the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid </a> as a Visiting Professor next September.
+
     My supervisiors are <a href="https://sites.google.com/view/helenachulia">Helena Chuliá </a>
     and <a href="https://jorgemuribe.wordpress.com/">Jorge M. Uribe</a>.
+    
 </p>
 
 <p>
