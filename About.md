@@ -17,7 +17,7 @@ title: About
 
     Hello! My name is Ignacio, I am a Ph. D. Candidate in Economics and predoctoral fellow at 
     <a href="https://www.ub.edu/school-economics/phd_students/garron-ignacio/">Universitat de Barcelona (UB).</a>
-    I will be joinning the Statistics Deparment of the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid </a> as a Visiting Professor (PostDoc) next September.
+    I will be joinning the Statistics Deparment of the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid </a> as a Visiting Professor (Postdoc) next September.
     
 </p>
 
