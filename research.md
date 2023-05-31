@@ -9,7 +9,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 **Publications**
 
-- Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **Job Market Paper.** **Forthcoming International Journal of Forecasting**. (Working paper version: Research Institute of Applied Economics Working Paper 2022/08.)
+- Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **Job Market Paper.** **Accepted International Journal of Forecasting**. (Working paper version: Research Institute of Applied Economics Working Paper 2022/08.)
 
     - Presented at the  29th Finance Forum (Santiago de Compostela, Spain), UBRisk (Universitat de Barcelona, Spain).
 
