@@ -32,7 +32,7 @@ title: About
 
 <br> - <a href="/assets/JMP.pdf">Job Market Paper (forecasting) here!</a>
 
-<br> - <a href="/assets/Chulia_Garron_Uribe_203.pdf">Additional JMP (international finance) here!</a>
+<br> - <a href="/assets/Chapter_1_presentation.pdf">Additional JMP (international finance) here!</a>
 
 
 

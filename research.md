@@ -30,7 +30,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 - Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**. (Working paper version: Research Institute of Applied Economics Working Paper 2021/06.)
     
-    - Presented at the EEA-ESEM 2021 and the 27th German Finance Association.
+    - Presented at the EEA-ESEM 2021, 27th German Finance Association, 3rd Catalan Economic Society, and 30th Finance Forum (expected).
 
     - [Additional JMP (international finance)!](/assets/Chapter_1_presentation.pdf)
 
