@@ -22,11 +22,11 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 - Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**. (Working paper version: Research Institute of Applied Economics Working Paper 2021/06.)
     
-    - Presented at the EEA-ESEM 2021, 27th German Finance Association, 3rd Catalan Economic Society, and 30th Finance Forum (expected).
+    - Presented at the EEA-ESEM 2021, 27th German Finance Association, 3rd Catalan Economic Society, and 30th Finance Forum.
 
     - [Paper!](/assets/Chapter_1_presentation.pdf)
 
-    - [Discussant 30th Finance Forum](/IgnacioGarron.github.io/assets/Discussion_30th_Finance_Forum%20(1).pdf)
+    - [Discussant 30th Finance Forum.](/assets/Discussion_30th_Finance_Forum%20(1).pdf)
 
 - Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted.** (Working paper version: Research Institute of Applied Economics Working Paper 2022/11.)
 
