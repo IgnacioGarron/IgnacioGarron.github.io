@@ -26,8 +26,6 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
     - [Paper!](/assets/Chapter_1_presentation.pdf)
 
-    - [Discussant 30th Finance Forum.](/assets/Discussion_30th_Finance_Forum.pdf)
-
 - Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted.** (Working paper version: Research Institute of Applied Economics Working Paper 2022/11.)
 
     - Presented at the 42nd International Symposium on Forecasting, University of Oxford. 
