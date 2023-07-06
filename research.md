@@ -24,8 +24,9 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
     
     - Presented at the EEA-ESEM 2021, 27th German Finance Association, 3rd Catalan Economic Society, and 30th Finance Forum (expected).
 
-    - [Additional JMP (international finance)!](/assets/Chapter_1_presentation.pdf)
+    - [Paper!](/assets/Chapter_1_presentation.pdf)
 
+    - [Discussant 30th Finance Forum](/IgnacioGarron.github.io/assets/Discussion_30th_Finance_Forum%20(1).pdf)
 
 - Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe). **Submitted.** (Working paper version: Research Institute of Applied Economics Working Paper 2022/11.)
 
