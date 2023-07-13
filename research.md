@@ -34,6 +34,6 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 - Forecasting inflation risk around the globe.
 
-    - WP soon!
+    - [WP soon!](/assets/PhD_thesis_presentation%20IgnacioGarronVedia.pdf)
     
     
