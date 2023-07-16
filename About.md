@@ -15,8 +15,8 @@ title: About
 
 <p>
 
-    Hello! My name is Ignacio, I hold a Ph. D. in Economics from Universitat de Barcelona (UB).
-    I will be joinning the Statistics Deparment of the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid </a> as a Visiting Professor next September.
+    Hello! I am a Ph. D. in Economics from the Universitat de Barcelona (UB).
+    I will be joinning the Statistics Department of the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid </a> as a Visiting Professor next September.
     
 </p>
 
