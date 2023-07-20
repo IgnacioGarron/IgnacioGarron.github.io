@@ -29,12 +29,6 @@ title: About
 <p>
 - <a href="/assets/CV_061122 (1).pdf">CV here!</a>
 
-<br> - <a href="/assets/JMP.pdf">Job Market Paper (forecasting) here!</a>
-
-<br> - <a href="/assets/Chapter_1_presentation.pdf">Additional JMP (international finance) here!</a>
-
-
-
 </p>
 
 <p>
