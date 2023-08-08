@@ -4,7 +4,7 @@ title: About
 ---
 
 
-<table >
+<table border="0">
 <tr>
 
 <div style="text-align: center;">
