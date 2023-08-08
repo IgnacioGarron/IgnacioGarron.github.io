@@ -3,17 +3,17 @@ layout: page
 title: About
 ---
 
-<div style="text-align: center;">
 
 <table >
 <tr>
 
+<div style="text-align: center;">
+
 <img src="assets/avatar.jpg" height="400" />
 
+</div>
 
-<p>
-
-<p>
+</tr>
 
 <tr>
 
@@ -42,6 +42,7 @@ title: About
     
 </p>
 
+</tr>
+
 </table>
 
-</div>
