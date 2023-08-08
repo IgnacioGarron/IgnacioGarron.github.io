@@ -5,13 +5,17 @@ title: About
 
 <div style="text-align: center;">
 
+<table >
+<tr>
+
 <img src="assets/avatar.jpg" height="400" />
 
-</div>
 
 <p>
 
 <p>
+
+<tr>
 
 <p>
 
@@ -37,3 +41,7 @@ title: About
     <a href="https://www.bcb.gob.bo">Central Bank of Bolivia (BCB)</a> and as an Economist at the <a href="https://www.cemla.org/index.html">Center for Latin American Monetary Studies (CEMLA)</a>.
     
 </p>
+
+</table>
+
+</div>
