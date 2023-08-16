@@ -15,14 +15,13 @@ title: About
 
 <p>
 
-    Hello! I am a Ph. D. in Economics from the Universitat de Barcelona (UB).
-    I will be joinning the Statistics Department of the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid </a> as a Visiting Professor next September.
+    Hello! I am a Visiting Professor in the Department of Statistics at the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid </a>. I hold a Ph.D in Economics (2023) from the Universitat de Barcelona.
     
 </p>
 
 <p>
 
-    My fields of interests are macro-finance topics, forecasting, and machine learning, with special focus on forecasting risks in economics and finance.
+    My fields of interests are topics related to macro-finance, forecasting, and machine learning, with special focus on forecasting risks in economics and finance.
 
 </p>
 
