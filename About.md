@@ -15,13 +15,13 @@ title: About
 
 <p>
 
-    Hello! I am a Visiting Professor in the Department of Statistics at the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid </a>. I hold a Ph.D in Economics (2023) from the Universitat de Barcelona.
+    Hello! I am a Visiting Professor in the Department of Statistics at the <a href="https://www.uc3m.es/departamento-estadistica/inicio">Universidad Carlos III de Madrid.</a> I hold a Ph.D in Economics (2023) from the University of Barcelona. Prior to this, I worked as a Senior Financial Analyst at the <a href="https://www.bcb.gob.bo">Central Bank of Bolivia (BCB)</a> and as an Economist at the <a href="https://www.cemla.org/index.html">Center for Latin American Monetary Studies (CEMLA)</a>.
     
 </p>
 
 <p>
 
-    My fields of interests are topics related to macro-finance, forecasting, and machine learning, with special focus on forecasting risks in economics and finance.
+    My fields of interests are topics related to macro-finance, forecasting, and time series, with special focus on forecasting risks in economics and finance.
 
 </p>
 
@@ -31,8 +31,6 @@ title: About
 </p>
 
 <p>
-
-    Before joining the UB, I worked as a Senior Financial Analyst at the 
-    <a href="https://www.bcb.gob.bo">Central Bank of Bolivia (BCB)</a> and as an Economist at the <a href="https://www.cemla.org/index.html">Center for Latin American Monetary Studies (CEMLA)</a>.
+    
     
 </p>
