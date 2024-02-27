@@ -5,6 +5,10 @@ description: "Teaching"
 permalink: /teaching/
 ---
 
+• Spring 2024. Statistics Applied to Journalism, Universidad Carlos III de Madrid (Bachelor in Journalism).
+
+• Spring 2024.  Analysis of dynamic data, Universidad Carlos III de Madrid (Bachelor in Finance and Accounting)
+
 • Fall 2023. Quantitative methods for management, Universidad Carlos III de Madrid (Bachelor in Finance and Accounting).
 
 • Fall 2023. Analysis of financial data, Universidad Carlos III de Madrid (Bachelor in Finance and Accounting). 
