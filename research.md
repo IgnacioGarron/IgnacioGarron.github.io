@@ -12,11 +12,17 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 <div class = "row">
   
-<div class = "col-md-1">
+<div class = "col-md-11">
 - 2023: Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **[International Journal of Forecasting, June 2023](https://www.sciencedirect.com/science/article/pii/S0169207023000511). [Presentation here!](/assets/Chapter_2_presentation.pdf)** 
+
+- 2022: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas). [**Journal of Development Effectiveness 14 (2), 125-142**.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934)
+
+- 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [**Journal of Consumer Affairs 53 (2), 296-323**.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187)
+
+
 </div>
 
-<div class = "col-md-11">
+<div class = "col-md-1">
 
 <a href="https://www.scopus.com/sourceid/22706?dgcid=sc_widget_citescore" style="text-decoration:none;color:#505050">
 <div style="height:100px;width:180px;font-family:Arial, Verdana, helvetica, sans-serif;background-color:#ffffff;display:inline-block">
@@ -37,12 +43,9 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 </div>
 </div>
 
+</div>
 
 
-
-- 2022: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas). [**Journal of Development Effectiveness 14 (2), 125-142**.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934)
-
-- 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [**Journal of Consumer Affairs 53 (2), 296-323**.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187)
 
 <p>&nbsp;</p>
 
