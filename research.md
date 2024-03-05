@@ -9,7 +9,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 **Publications**
 
-<h3><img align="center" height="30" src=<a href="https://www.scopus.com/sourceid/22706?dgcid=sc_widget_citescore" style="text-decoration:none;color:#505050">
+<h3><a href="https://www.scopus.com/sourceid/22706?dgcid=sc_widget_citescore" style="text-decoration:none;color:#505050">
 <div style="height:100px;width:180px;font-family:Arial, Verdana, helvetica, sans-serif;background-color:#ffffff;display:inline-block">
 <div style="padding: 0px 16px;">
 <div style="padding-top:3px;line-height:1;">
