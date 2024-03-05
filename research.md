@@ -9,7 +9,16 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 **Publications**
 
-- 2023: Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **[International Journal of Forecasting, June 2023](https://www.sciencedirect.com/science/article/pii/S0169207023000511). [Presentation here!](/assets/Chapter_2_presentation.pdf)** <a href="https://www.scopus.com/sourceid/22706?dgcid=sc_widget_citescore" style="text-decoration:none;color:#505050">
+
+<div class = "row">
+  
+<div class = "col-md-1">
+- 2023: Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **[International Journal of Forecasting, June 2023](https://www.sciencedirect.com/science/article/pii/S0169207023000511). [Presentation here!](/assets/Chapter_2_presentation.pdf)** 
+</div>
+
+<div class = "col-md-11">
+
+<a href="https://www.scopus.com/sourceid/22706?dgcid=sc_widget_citescore" style="text-decoration:none;color:#505050">
 <div style="height:100px;width:180px;font-family:Arial, Verdana, helvetica, sans-serif;background-color:#ffffff;display:inline-block">
 <div style="padding: 0px 16px;">
 <div style="padding-top:3px;line-height:1;">
@@ -26,6 +35,8 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 <div style="font-size:12px;text-align:right;">Powered by &nbsp;<span><img alt="Scopus" style="width:50px;height:15px;" src="https://www.scopus.com/static/images/scopusLogoOrange.svg"></span></div>
 </div>
 </div>
+</div>
+
 
 
 
