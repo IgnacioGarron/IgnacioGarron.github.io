@@ -29,7 +29,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 </div>
 <div style="font-size:11px;"><span id="citescorePerVal">93rd percentile</span></div>
 </div>
-<div style="font-size:12px;text-align:right;">Powered by &nbsp;<span><img alt="Scopus" style="width:50px;height:15px;" src="https://www.scopus.com/static/images/scopusLogoOrange.svg"></span></div>
+<div style="font-size:12px;text-align:right;">Powered by &nbsp;<span><img alt="Scopus" style="width:10px;height:3px;" src="https://www.scopus.com/static/images/scopusLogoOrange.svg"></span></div>
 </div>
 </div>
 
