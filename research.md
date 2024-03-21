@@ -17,6 +17,10 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 <p>&nbsp;</p>
 
+**Books**
+
+- 2023: Essays on Tail Risks in Macroeconomics. [**PhD Thesis**.](https://www.tesisenred.net/handle/10803/688864#page=1)
+
 
 **Working papers**
 
