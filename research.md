@@ -15,6 +15,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 - 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [**Journal of Consumer Affairs 53 (2), 296-323**.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187)
 
+
 <p>&nbsp;</p>
 
 **Books**
