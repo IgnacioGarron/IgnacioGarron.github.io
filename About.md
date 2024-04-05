@@ -3,9 +3,6 @@ layout: page
 title: About
 ---
 
-<div class="begin-examples"></div>
-
-
 <div style="text-align: center;">
 
 <img src="assets/avatar.jpg" height="400" />
@@ -29,8 +26,5 @@ title: About
 </p>
 
 <p>
- <> - <a href="/assets/CV_061122 (1).pdf">CV here!</a>
 
-</p>
 
-<div class="end-examples"></div>
