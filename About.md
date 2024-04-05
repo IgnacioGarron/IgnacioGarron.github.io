@@ -26,5 +26,6 @@ title: About
 </p>
 
 <p>
+ - <a href="/assets/CV_061122 (1).pdf">CV here!</a>
 
 
