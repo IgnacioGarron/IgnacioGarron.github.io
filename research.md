@@ -18,10 +18,13 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 <p>&nbsp;</p>
 
+**Work in progress**
+
+- International vulnerability of inflation (with V. Rodríguez-Caballero and E. Ruiz). [WTSE](/assets/PresentationWTSE.pdf)
+
 **Books**
 
-- 2023: Essays on Tail Risks in Macroeconomics. [**PhD Thesis**.](https://www.tesisenred.net/handle/10803/688864#page=1)
-
+- 2023: Essays on Tail Risks in Macroeconomics. [**PhD Thesis**.](https://www.tesisenred.net/handle/10803/688864#page=1)    
 
 **Working papers**
 
@@ -37,8 +40,4 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
     
     - [WP version here.](https://www.ub.edu/irea/working_papers/2022/202211.pdf)
 
-- Forecasting inflation risk around the globe.
 
-    - [WP soon!](/assets/PhD_thesis_presentation%20IgnacioGarronVedia.pdf)
-    
-    
