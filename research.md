@@ -20,7 +20,7 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 **Work in progress**
 
-- International vulnerability of inflation (with V. Rodríguez-Caballero and E. Ruiz). [WTSE](/assets/PresentationWTSE.pdf)
+- International vulnerability of inflation (with V. Rodríguez-Caballero and E. Ruiz).
 
 **Books**
 
