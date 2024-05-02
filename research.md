@@ -22,8 +22,6 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 - International vulnerability of inflation (with V. Rodríguez-Caballero and E. Ruiz).
 
-- International vulnerability of inflation (with V. Rodríguez-Caballero and E. Ruiz).
-
 **Books**
 
 - 2023: Essays on Tail Risks in Macroeconomics. [**PhD Thesis**.](https://www.tesisenred.net/handle/10803/688864#page=1)    
