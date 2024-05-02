@@ -15,7 +15,7 @@ description: "CV"
 
 - 2016-2017: Economist, Centro de Estudios Monetarios Latinoamericanos (CEMLA).
 
-- 2014-205: Financial Analyst, Banco Central de Bolivia.
+- 2014-2015: Financial Analyst, Banco Central de Bolivia.
 
 **Education**
 
