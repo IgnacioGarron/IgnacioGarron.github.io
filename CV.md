@@ -3,14 +3,28 @@ layout: page
 title: CV
 description: "CV"
 ---
-[Find my CV here!](/assets/CV_061122%20(1).pdf)
+<p>&nbsp;</p>
 
-<div style="text-align: center;">
+**Academic Positions**
 
+- Since September 2023: Visiting Professor, Department of Statistics. Universidad Carlos III de Madrid.
 
-<img src="assets/La_Paz_Skyline.jpg" height="400" title="La Paz, Bolivia" />
+**Professional Positions**
 
-</div>
+- 2017-2023: Senior Financial Analyst, Banco Central de Bolivia.
+
+- 2016-2017: Economist, Centro de Estudios Monetarios Latinoamericanos (CEMLA).
+
+- 2014-205: Financial Analyst, Banco Central de Bolivia.
+
+**Education**
+
+- 2023: PhD in Economics. Universitat de Barcelona.
+
+- 2014: Master in Economics. Barcelona School of Economics.
+
+- 2013: Bachelor in Economics. Barcelona School of Economics.
+
 
 
 
