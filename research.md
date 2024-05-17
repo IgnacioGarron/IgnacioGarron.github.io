@@ -16,15 +16,13 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 3. 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [**Journal of Consumer Affairs 53 (2), 296-323**.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187)
 
 
-<p>&nbsp;</p>
-
 **Work in progress**
 
 - International vulnerability of inflation (with V. Rodríguez-Caballero and E. Ruiz).
 
-**Books**
+- High-frequency Density Nowcasts of CO2 Emissions in U.S. States (with A. Ramos).
 
-- 2023: Essays on Tail Risks in Macroeconomics. [**PhD Thesis**.](https://www.tesisenred.net/handle/10803/688864#page=1)    
+- Measuring geopolitical risk on energy inflation (with C. Amado and H. Veiga).
 
 **Working papers**
 
@@ -39,5 +37,10 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
     - Presented at the 42nd International Symposium on Forecasting, University of Oxford. 
     
     - [WP version here.](https://www.ub.edu/irea/working_papers/2022/202211.pdf)
+
+
+**Books**
+
+- 2023: Essays on Tail Risks in Macroeconomics. [**PhD Thesis**.](https://www.tesisenred.net/handle/10803/688864#page=1)   
 
 

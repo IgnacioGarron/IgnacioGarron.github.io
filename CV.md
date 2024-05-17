@@ -23,7 +23,7 @@ description: "CV"
 
 - 2014: Master in Economics. Barcelona School of Economics.
 
-- 2013: Bachelor in Economics. Barcelona School of Economics.
+- 2013: Bachelor in Economics. Universidad Privada Boliviana.
 
 
 
