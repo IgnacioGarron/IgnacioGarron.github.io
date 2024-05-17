@@ -11,7 +11,7 @@ description: "CV"
 
 **Professional Positions**
 
-- 2017-2023: Senior Financial Analyst, Banco Central de Bolivia.
+- 2017-2020: Senior Financial Analyst, Banco Central de Bolivia.
 
 - 2016-2017: Economist, Centro de Estudios Monetarios Latinoamericanos (CEMLA).
 
