@@ -7,7 +7,7 @@ description: "CV"
 
 **Academic Positions**
 
-- Since September 2023: Visiting Professor, Department of Statistics. Universidad Carlos III de Madrid.
+- Since September 2023: Visiting Professor of Econometrics, Department of Statistics. Universidad Carlos III de Madrid.
 
 **Professional Positions**
 
