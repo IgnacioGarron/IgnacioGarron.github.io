@@ -20,6 +20,8 @@ More in my [Google Scholar profile](https://scholar.google.es/citations?hl=es&us
 
 - International vulnerability of inflation (with V. Rodríguez-Caballero and E. Ruiz).
 
+- High-frequency Density Nowcasts of CO2 Emissions at the State Level (with A. Ramos).
+
 **Working papers**
 
 - Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **R&R Journal of Banking and Finance**. (Working paper version: Research Institute of Applied Economics Working Paper 2021/06.)
