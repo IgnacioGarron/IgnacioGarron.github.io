@@ -22,7 +22,7 @@ author_profile: true
 
 1. International Vulnerability of Inflation, with Vladimir Caballero-Rodriguez (ITAM) and Esther Ruiz (UC3M).
 
-2. High-frequency' Density Nowcasts of State-Level CO2 Emissions in the U.S., with Andrey Ramos (UC3M).
+2. High-frequency Density Nowcasts of State-Level CO2 Emissions in the U.S., with Andrey Ramos (UC3M).
 
 **Working papers**
 
