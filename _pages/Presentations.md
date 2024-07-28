@@ -1,8 +1,8 @@
 ---
 layout: archive
 title: Talks and presentations
-description: "Teaching"
-permalink:  /talks/
+description: "Presentations"
+permalink:  /presentations/
 author_profile: true
 ---
 
