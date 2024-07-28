@@ -10,8 +10,8 @@
 locale                   : "en-US"
 title                    : "Ignacio Garrón"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
+name                     : &name "Ignacio Garrón"
+description              : &description "Visiting Professor of Econometrics, Department of Statistics, UC3M"
 url                      : https://ignaciogarron.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/IgnacioGarron"
@@ -22,13 +22,13 @@ repository               : "https://github.com/IgnacioGarron"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Ignacio Garrón"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Visiting Professor of Econometrics, Department of Statistics, Universidad Carlos III de Madrid"
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "Universidad Carlos III de Madrid"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "igarron@eest-econ.uc3m.es" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
