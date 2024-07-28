@@ -31,6 +31,11 @@ author_profile: true
 2.  Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe).
 
 
+**Books**
+
+1. 2023: Essays on Tail Risks in Macroeconomics, [Universitat de Barcelona](https://www.tesisenred.net/handle/10803/688864#page=1)
+
+
 **Policy papers**
 
 1. 2024: Rastreando la trayectoria de los precios de la quinua en Bolivia: Quiebres estructurales y persistencia de choques (with Javier Aliaga and Cecilia Lenis), No 08/2024, Development Research Working Paper Series, Institute for Advanced Development Studies.
