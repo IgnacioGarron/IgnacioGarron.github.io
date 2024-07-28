@@ -11,35 +11,31 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
+* 2023: PhD in Economics. Universitat de Barcelona.
+* 2014: Master in Economics. Barcelona School of Economics.
+* 2013: Bachelor in Economics. Universidad Privada Boliviana.
+
+
+Academic Positions
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Since September 2023: Visiting Professor of Econometrics, Department of Statistics. Universidad Carlos III de Madrid.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Professional Positions
+======
+* 2017-2020: Senior Financial Analyst, Banco Central de Bolivia.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2016-2017: Economist, Centro de Estudios Monetarios Latinoamericanos (CEMLA).
+
+* 2014-2015: Financial Analyst, Banco Central de Bolivia.
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* R
+* Python
+* Matlab
+* Stata
 
 Publications
 ======
