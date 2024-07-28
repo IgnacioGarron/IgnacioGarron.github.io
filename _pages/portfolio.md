@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: Projects and Policy papers
+title: Projects
 description: "Projects"
 permalink:  /portfolio/
 author_profile: true
