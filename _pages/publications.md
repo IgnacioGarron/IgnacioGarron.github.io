@@ -12,6 +12,8 @@ author_profile: true
 
 **Publications JCR**
 
+1. Forthcoming: Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **[Journal of Banking and Finance]**.
+
 1. 2024: Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **[International Journal of Forecasting, June 2023](https://www.sciencedirect.com/science/article/pii/S0169207023000511). [Presentation here!](/files/Chapter_2_presentation.pdf)**
 
 2. 2022: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas). [**Journal of Development Effectiveness 14 (2), 125-142**.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934)
@@ -24,11 +26,11 @@ author_profile: true
 
 2. High-frequency Density Nowcasts of State-Level CO2 Emissions in the U.S., with Andrey Ramos (UC3M).
 
+3. Measuring geopolitical risk on energy inflation: A panel quantile approach, with Cristina Amado (UC3M) and Helena Veiga (UC3M).
+
 **Working papers**
 
-1. Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). R&R Journal of Banking and Finance, Research Institute of Applied Economics Working Paper 2021/06.
-    
-2.  Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe).
+1.  Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe).
 
 
 **Books**
