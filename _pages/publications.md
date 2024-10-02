@@ -12,7 +12,7 @@ author_profile: true
 
 **Publications JCR**
 
-1. Forthcoming: Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **[Journal of Banking and Finance](https://www.sciencedirect.com/science/article/pii/S0378426624002280)**.
+1. 2024: Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **[Journal of Banking and Finance](https://www.sciencedirect.com/science/article/pii/S0378426624002280)**.
 
 2. 2024: Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). **[International Journal of Forecasting, June 2023](https://www.sciencedirect.com/science/article/pii/S0169207023000511). [Presentation here!](/files/Chapter_2_presentation.pdf)**
 
@@ -22,7 +22,7 @@ author_profile: true
 
 **Work in progress**
 
-1. International Vulnerability of Inflation, with Vladimir Caballero-Rodriguez (ITAM) and Esther Ruiz (UC3M).
+1. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M).
 
 2. High-frequency Density Nowcasts of State-Level CO2 Emissions in the U.S., with Andrey Ramos (UC3M).
 
