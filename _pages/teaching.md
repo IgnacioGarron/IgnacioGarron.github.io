@@ -8,6 +8,8 @@ author_profile: true
 
 {% include base_path %}
 
+• Fall 2024. Statistics II, Universidad Carlos III de Madrid (Bachelor in Business Administration). 
+
 • Fall 2024. Analysis of financial data, Universidad Carlos III de Madrid (Bachelor in Finance and Accounting). 
 
 • Fall 2024. Quantitative methods for management, Universidad Carlos III de Madrid (Bachelor in Finance and Accounting).
