@@ -22,9 +22,9 @@ author_profile: true
 
 **Work in progress**
 
-1. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M).
+1. High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S (with Andrey Ramos (UC3M)).**[Latest version](/files/Quantile_Density_Nowcast_CO2.pdf)**.
 
-2. 1. High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S (with Andrey Ramos (UC3M)).**[Latest version](/files/Quantile_Density_Nowcast_CO2.pdf)**.
+2. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M).
 
 2. Measuring geopolitical risk on energy inflation: A panel quantile approach, with Cristina Amado (UC3M) and Helena Veiga (UC3M).
 
