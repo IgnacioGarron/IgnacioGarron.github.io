@@ -10,6 +10,10 @@ author_profile: true
 {% endif %}
 
 
+**Job market paper**
+
+1. High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S.**[Latest version](/files/Quantile_Density_Nowcasting_CO2.pdf)**.
+
 **Publications JCR**
 
 1. 2024: Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). **[Journal of Banking and Finance](https://www.sciencedirect.com/science/article/pii/S0378426624002280)**.
@@ -24,9 +28,7 @@ author_profile: true
 
 1. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M).
 
-2. High-frequency Density Nowcasts of State-Level CO2 Emissions in the U.S., with Andrey Ramos (UC3M).
-
-3. Measuring geopolitical risk on energy inflation: A panel quantile approach, with Cristina Amado (UC3M) and Helena Veiga (UC3M).
+2. Measuring geopolitical risk on energy inflation: A panel quantile approach, with Cristina Amado (UC3M) and Helena Veiga (UC3M).
 
 **Working papers**
 
@@ -35,7 +37,7 @@ author_profile: true
 
 **Books**
 
-1. 2023: [Essays on Tail Risks in Macroeconomics, Universitat de Barcelona](https://www.tesisenred.net/handle/10803/688864#page=1)
+1. 2023: [Essays on Tail Risks in Macroeconomics, Universitat de Barcelona](https://www.tesisenred.net/handle/10803/688864#page=1)[**Presentation**](/files/PhD_thesis_presentation IgnacioGarronVedia.pdf)
 
 
 **Policy papers**
