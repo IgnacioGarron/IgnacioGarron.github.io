@@ -12,7 +12,7 @@ author_profile: true
 
 **Job market paper**
 
-1. High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S.**[Latest version](/files/Quantile_Density_Nowcast_CO2.pdf)**.
+1. High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S (with Andrey Ramos (UC3M)).**[Latest version](/files/Quantile_Density_Nowcast_CO2.pdf)**.
 
 **Publications JCR**
 
