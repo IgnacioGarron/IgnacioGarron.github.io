@@ -25,9 +25,9 @@ Q3; 2024]
 
 **Work in progress**
 
-1. High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S (with Andrey Ramos (UC3M)).**[Latest version](/files/Quantile_Density_Nowcast_CO2.pdf)**.
+1. High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S (with Andrey Ramos (UC3M)). **[Latest version](/files/Quantile_Density_Nowcast_CO2.pdf)**.
 
-2. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M).
+2. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). **[Latest version](https://arxiv.org/pdf/2410.20628)**
 
 2. Measuring geopolitical risk on energy inflation: A panel quantile approach, with Cristina Amado (UC3M) and Helena Veiga (UC3M).
 
@@ -38,7 +38,7 @@ Q3; 2024]
 
 **Books**
 
-1. 2023: [Essays on Tail Risks in Macroeconomics, Universitat de Barcelona](https://www.tesisenred.net/handle/10803/688864#page=1)[**Presentation**](/files/PhD_thesis_presentation IgnacioGarronVedia.pdf)
+1. 2023: [Essays on Tail Risks in Macroeconomics, Universitat de Barcelona](https://www.tesisenred.net/handle/10803/688864#page=1) [**Presentation**](/files/PhD_thesis_presentation IgnacioGarronVedia.pdf)
 
 
 **Policy papers**
