@@ -17,8 +17,6 @@ author_profile: true
 2. 2024: Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). *[International Journal of Forecasting, June 2023](https://www.sciencedirect.com/science/article/pii/S0169207023000511). [Presentation here!](/files/Chapter_2_presentation.pdf)* [Q1, Q1,
 Q1; 2024]
 
-*Pre PHD*
-
 3. 2022: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas). [*Journal of Development Effectiveness 14 (2), 125-142*.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934) [Q4, Q3,
 Q3; 2024]
 
