@@ -29,7 +29,7 @@ Q1; 2024]
 
 2. On the relationship of country geopolitical risk on energy inflation, with Cristina Amado (UC3M) and Helena Veiga (UC3M). *[Working paper](https://e-archivo.uc3m.es/rest/api/core/bitstreams/895198b0-34c6-45ba-ae73-0627ce852b07/content)*
 
-3. High-frequency Density Nowcasts of State-Level Carbon Dioxide (CO2) Emissions in the U.S (with Andrey Ramos (UC3M)). *[Latest version](/files/Quantile_Density_Nowcast_CO2.pdf)*.
+3. High-frequency Density Nowcasts of U.S. State-Level Carbon Dioxide Emissions (with Andrey Ramos (UC3M)). *[Latest version](/files/Quantile_Density_Nowcast_CO2.pdf)*.
 
 
 **Working papers**
