@@ -25,7 +25,7 @@ Q1; 2024]
 
 **Work in progress**
 
-1. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[Working paper](https://arxiv.org/pdf/2410.20628)* [Latest presentation](/files/Internalsemminar2025IGV.pdf).
+1. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[Working paper](https://arxiv.org/pdf/2410.20628). [Latest presentation](/files/Internalsemminar2025IGV.pdf).*
 
 2. On the relationship of country geopolitical risk on energy inflation, with Cristina Amado (UC3M) and Helena Veiga (UC3M). *[Working paper](https://e-archivo.uc3m.es/rest/api/core/bitstreams/895198b0-34c6-45ba-ae73-0627ce852b07/content)*
 
