@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 
-* 2023: PhD in Economics (Econometrics Department), Universitat de Barcelona. *Extraordinary Doctoral Award (2025).*
+* 2023: PhD in Economics (*Cum Laude and UB Extraordinary Doctoral Award (2025)*), Universitat de Barcelona (UB).
 * 2014: Master in Economics, Barcelona School of Economics.
 * 2013: Bachelor in Economics, Universidad Privada Boliviana.
 
