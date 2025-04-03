@@ -31,6 +31,8 @@ Q1; 2024]
 
 3. High-frequency Density Nowcasts of U.S. State-Level Carbon Dioxide Emissions (with Andrey Ramos (UC3M)). *[Latest version](https://arxiv.org/abs/2501.03380)*.
 
+4. International vulnerability of domestic headline, core, energy and food inflation (with Gian Pietro Bellocca and Esther Ruiz, UC3M)*[Presentation](/files/International_factors_for_energy_food_and_core.pdf)*
+
 
 **Working papers**
 
