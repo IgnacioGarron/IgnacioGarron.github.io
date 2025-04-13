@@ -23,6 +23,10 @@ Q3; 2024]
 4. 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [*Journal of Consumer Affairs 53 (2), 296-323*.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187) [Q2, Q1,
 Q1; 2024]
 
+**R packages**
+
+1.  FARS: Factor-Augmented Regression Scenarios (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html)*
+
 **Work in progress**
 
 1. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[Working paper](https://arxiv.org/pdf/2410.20628). [Latest presentation](/files/Internalsemminar2025IGV.pdf).*
@@ -30,6 +34,8 @@ Q1; 2024]
 2. On the relationship of country geopolitical risk on energy inflation, with Cristina Amado (UC3M) and Helena Veiga (UC3M). *[Working paper](https://e-archivo.uc3m.es/rest/api/core/bitstreams/895198b0-34c6-45ba-ae73-0627ce852b07/content)*
 
 3. High-frequency Density Nowcasts of U.S. State-Level Carbon Dioxide Emissions (with Andrey Ramos (UC3M)). *[Latest version](https://arxiv.org/abs/2501.03380)*.
+
+4. FARS: Factor Augmented Regression Scenarios in R (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html)*
 
 **Working papers**
 
