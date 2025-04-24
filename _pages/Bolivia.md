@@ -5,6 +5,8 @@ permalink: /bolivia/
 author_profile: true
 ---
 
+{% include base_path %}
+
 Investigación sobre Bolivia
 
 1. 2024: Rastreando la trayectoria de los precios de la quinua en Bolivia: Quiebres estructurales y persistencia de choques (with Javier Aliaga and Cecilia Lenis), No 08/2024, Development Research Working Paper Series, Institute for Advanced Development Studies.
