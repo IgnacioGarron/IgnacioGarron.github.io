@@ -7,7 +7,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+* 2025: XV Workshop in Time Series Econometrics, University of Zaragoza, Zaragoza.
 * 2024: XIV Workshop in Time Series Econometrics, University of Zaragoza, Zaragoza.
 * 2023: 30th Finance Forum, University of Malaga; Third Catalan Economic Society Conference, Barcelona; 16 Encuentro de Economistas de Bolivia (online).
 * 2022: Phd Student Seminar, Universitat de Barcelona; 29th Finance Forum, Universidad Santiago de Compostela; 42nd International Symposium on Forecasting, University of Oxford; UBRisk (Universitat de Barcelona).
