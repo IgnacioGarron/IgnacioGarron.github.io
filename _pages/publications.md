@@ -35,7 +35,7 @@ Q1; 2024]
 
 3. High-frequency Density Nowcasts of U.S. State-Level Carbon Dioxide Emissions (with Andrey Ramos (UC3M)). *[Latest version](https://arxiv.org/abs/2501.03380)*.
 
-4. FARS: Factor Augmented Regression Scenarios in R (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html)*
+4. FARS: Factor Augmented Regression Scenarios in R (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html). [Working paper](https://arxiv.org/pdf/2507.10679)*
 
 **Working papers**
 
