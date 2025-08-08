@@ -12,15 +12,17 @@ author_profile: true
 
 **Publications [JCR, Scimago, Scopus]**
 
-1. 2024: Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). *[Journal of Banking and Finance.](https://www.sciencedirect.com/science/article/pii/S0378426624002280) [Latest presentation](/files/VulnerableFunding_latest.pdf). [Replication files](https://github.com/IgnacioGarron/Vulnerable-Funding-RR2)* [Q1, Q1, Q1; 2024]
+1. 2025: On the relationship of country geopolitical risk on energy inflation, with Cristina Amado (UC3M) and Helena Veiga (UC3M). *[forthcoming in the Applied Economics Letters.](https://e-archivo.uc3m.es/rest/api/core/bitstreams/895198b0-34c6-45ba-ae73-0627ce852b07/content)*
 
-2. 2024: Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). *[International Journal of Forecasting, June 2023](https://www.sciencedirect.com/science/article/pii/S0169207023000511). [Latest presentation](/files/Chapter_2_presentation.pdf). [Replication files](https://github.com/IgnacioGarron/Daily-GaR)* [Q1, Q1,
+2. 2024: Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). *[Journal of Banking and Finance.](https://www.sciencedirect.com/science/article/pii/S0378426624002280) [Latest presentation](/files/VulnerableFunding_latest.pdf). [Replication files](https://github.com/IgnacioGarron/Vulnerable-Funding-RR2)* [Q1, Q1, Q1; 2024]
+
+3. 2024: Daily growth-at-risk: financial or real drivers? The answer is not always the same (with H. Chuliá and J.M. Uribe). *[International Journal of Forecasting, June 2023](https://www.sciencedirect.com/science/article/pii/S0169207023000511). [Latest presentation](/files/Chapter_2_presentation.pdf). [Replication files](https://github.com/IgnacioGarron/Daily-GaR)* [Q1, Q1,
 Q1; 2024]
 
-3. 2022: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas). [*Journal of Development Effectiveness 14 (2), 125-142*.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934) [Q4, Q3,
+4. 2022: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas). [*Journal of Development Effectiveness 14 (2), 125-142*.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934) [Q4, Q3,
 Q3; 2024]
 
-4. 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [*Journal of Consumer Affairs 53 (2), 296-323*.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187) [Q2, Q1,
+5. 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [*Journal of Consumer Affairs 53 (2), 296-323*.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187) [Q2, Q1,
 Q1; 2024]
 
 **R packages**
@@ -30,8 +32,6 @@ Q1; 2024]
 **Work in progress**
 
 1. International Vulnerability of Inflation, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[Working paper](https://arxiv.org/pdf/2410.20628). [Latest presentation](/files/Internalsemminar2025IGV.pdf).*
-
-2. On the relationship of country geopolitical risk on energy inflation, with Cristina Amado (UC3M) and Helena Veiga (UC3M). *[Working paper](https://e-archivo.uc3m.es/rest/api/core/bitstreams/895198b0-34c6-45ba-ae73-0627ce852b07/content)*
 
 3. High-frequency Density Nowcasts of U.S. State-Level Carbon Dioxide Emissions (with Andrey Ramos (UC3M)). *[Latest version](https://arxiv.org/abs/2501.03380)*.
 
