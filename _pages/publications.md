@@ -12,7 +12,7 @@ author_profile: true
 
 **Publications [JCR, Scimago, Scopus]**
 
-1. 2025: On the relationship of country geopolitical risk on energy inflation, with Cristina Amado (UC3M) and Helena Veiga (UC3M). *[forthcoming in the Applied Economics Letters.](https://e-archivo.uc3m.es/rest/api/core/bitstreams/895198b0-34c6-45ba-ae73-0627ce852b07/content)* [Q3, Q3, Q2; 2024]
+1. 2025: On the relationship of country geopolitical risk on energy inflation, with Cristina Amado (UC3M) and Helena Veiga (UC3M). *[Applied Economics Letters.](https://www.tandfonline.com/doi/full/10.1080/13504851.2025.2547098?scroll=top&needAccess=true)* [Q3, Q3, Q2; 2024]
 
 2. 2024: Vulnerable Funding in the Global Economy (with H. Chuliá and J.M. Uribe). *[Journal of Banking and Finance.](https://www.sciencedirect.com/science/article/pii/S0378426624002280) [Latest presentation](/files/VulnerableFunding_latest.pdf). [Replication files](https://github.com/IgnacioGarron/Vulnerable-Funding-RR2)* [Q1, Q1, Q1; 2024]
 
