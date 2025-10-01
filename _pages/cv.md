@@ -19,7 +19,8 @@ Education
 
 Academic Positions
 ======
-* Since September 2023: Assistant Professor of Econometrics, Department of Statistics. Universidad Carlos III de Madrid.
+* Since September 2025: Assistant Professor of Econometrics (tenure track), Department of Statistics. Universidad Carlos III de Madrid.
+* September 2023 - August 2025: Visiting Professor of Econometrics, Department of Statistics. Universidad Carlos III de Madrid.
 
 Professional Positions
 ======
