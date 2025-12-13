@@ -12,7 +12,7 @@ author_profile: true
 
 **Publications [JCR, Scimago, Scopus]**
 
-1. 2025: International factors and inflation risks, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[International Journal of Forecasting, forthcoming](https://arxiv.org/pdf/2410.20628). Previous version circulating as "International vulnerability of inflation". [Replication Package](https://github.com/IgnacioGarron/replication_ijf_int_inflation_factors_risks).* [Q1, Q1, Q1; 2024]
+1. 2025: International factors and inflation risks, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[International Journal of Forecasting, forthcoming](https://arxiv.org/pdf/2410.20628). A previous version is circulating as "International vulnerability of inflation". [Replication Package](https://github.com/IgnacioGarron/replication_ijf_int_inflation_factors_risks).* [Q1, Q1, Q1; 2024]
 
 2. 2025: On the relationship of country geopolitical risk on energy inflation, with Cristina Amado (UC3M) and Helena Veiga (UC3M). *[Applied Economics Letters.](https://www.tandfonline.com/doi/full/10.1080/13504851.2025.2547098?scroll=top&needAccess=true)* [Q3, Q3, Q2; 2024]
 
