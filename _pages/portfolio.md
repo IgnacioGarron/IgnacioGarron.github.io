@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-* 2026-2028: Ayuda adicional del investigador Ignacio Garrón Vedia dentro del programa Juan de la Cierva 2024 awarded by Agencia Nacional de Investigación (AEI) de España.
+* 2026-2028: Predicción del riesgo macroeconómico: Nuevas metodologías econométricas. Ayuda adicional del investigador Ignacio Garrón Vedia dentro del programa Juan de la Cierva 2024 awarded by Agencia Nacional de Investigación (AEI) de España.
 
 * 2025: Poverty Estimation using Mobile and Administrative Data awarded by The World Bank. Principal Researcher: Ignacio Garrón.
 
