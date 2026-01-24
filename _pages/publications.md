@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 
-**Publications [JCR, Scimago, Scopus]**
+**Publications**
 
 1. 2026: International factors and inflation risks, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[International Journal of Forecasting, forthcoming](https://arxiv.org/pdf/2410.20628). A previous version is circulating as "International vulnerability of inflation". [Replication Package](https://github.com/IgnacioGarron/replication_ijf_int_inflation_factors_risks).* 
 
