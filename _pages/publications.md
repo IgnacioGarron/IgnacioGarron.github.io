@@ -10,6 +10,15 @@ author_profile: true
 {% endif %}
 
 
+**R packages**
+
+1.  FARS: Factor-Augmented Regression Scenarios (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). 
+
+- *[Working paper](https://arxiv.org/abs/2507.10679)*
+- *[CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html)*
+- *[GitHub repository](https://github.com/GPEBellocca/FARS)*
+
+
 **Publications**
 
 1. 2026: International factors and inflation risks, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[International Journal of Forecasting, forthcoming](https://arxiv.org/pdf/2410.20628). A previous version is circulating as "International vulnerability of inflation". [Replication Package](https://github.com/IgnacioGarron/replication_ijf_int_inflation_factors_risks).* 
@@ -22,11 +31,8 @@ author_profile: true
 
 5. 2022: Interest rate caps on microcredit: evidence from a natural experiment in Bolivia (with M. J. Roa and A. Villegas). [*Journal of Development Effectiveness 14 (2), 125-142*.](https://www.tandfonline.com/doi/abs/10.1080/19439342.2021.1968934) 
 
-6. 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [*Journal of Consumer Affairs 53 (2), 296-323*.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187) 
+6. 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [*Journal of Consumer Affairs 53 (2), 296-323*.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187)
 
-**R packages**
-
-1.  FARS: Factor-Augmented Regression Scenarios (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html)*
 
 **Work in progress**
 
