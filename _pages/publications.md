@@ -34,15 +34,15 @@ author_profile: true
 6. 2019: Financial decisions and financial capabilities in the Andean region (with M. J. Roa and J. Barboza). [*Journal of Consumer Affairs 53 (2), 296-323*.](https://onlinelibrary.wiley.com/doi/abs/10.1111/joca.12187)
 
 
-**Work in progress**
+**Working papers**
+
+1. The empirical distribution of sequential LS factors in Multi-level Dynamic Factor Models (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[Working paper](https://e-archivo.uc3m.es/entities/publication/d8f52e5a-87a8-4507-83b1-7d98814a9776)*
 
 2. FARS: Factor Augmented Regression Scenarios in R (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html). [Working paper](https://arxiv.org/pdf/2507.10679)*
 
-1. High-frequency Density Nowcasts of U.S. State-Level Carbon Dioxide Emissions (with Andrey Ramos (UC3M)). *[Latest version](https://arxiv.org/abs/2501.03380)*.
+3. High-frequency Density Nowcasts of U.S. State-Level Carbon Dioxide Emissions (with Andrey Ramos (UC3M)). *[Latest version](https://arxiv.org/abs/2501.03380)*.
 
-**Working papers**
-
-1.  Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe).
+4.  Monitoring Daily Unemployment at Risk (with H. Chuliá and J.M. Uribe).
 
 
 **Books**
