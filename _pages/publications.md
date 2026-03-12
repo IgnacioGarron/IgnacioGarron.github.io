@@ -22,7 +22,7 @@ author_profile: true
 **Publications**
 
 7. 2026: Factor-Augmented Regression Scenarios (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). 
- *[Journal of Statistical Software, accepted](https://doi.org/10.1016/j.ijforecast.2025.12.003). A previous version is circulating as "International vulnerability of inflation". [CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html).* 
+ *[Journal of Statistical Software, accepted](https://doi.org/10.1016/j.ijforecast.2025.12.003). [CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html).* 
 
 6. 2026: International factors and inflation risks, with Vladimir Rodríguez-Caballero (ITAM) and Esther Ruiz (UC3M). *[International Journal of Forecasting, forthcoming](https://doi.org/10.1016/j.ijforecast.2025.12.003). A previous version is circulating as "International vulnerability of inflation". [Replication Package](https://github.com/IgnacioGarron/replication_ijf_int_inflation_factors_risks).* 
 
