@@ -21,7 +21,7 @@ repository               : "https://github.com/IgnacioGarron"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Ignacio Garrón"
   pronouns         : # example: "she/her"  
   bio              : "Juan de la Cierva research fellow, Department of Statistics, Universidad Carlos III de Madrid"
