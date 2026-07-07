@@ -2,9 +2,6 @@
 permalink: /
 title: "About me"
 author_profile: true
-sidebar:
-  - image: "la-paz.jpeg"
-    image_alt: "La Paz landscape"
 redirect_from: 
   - /about/
   - /about.html
@@ -36,4 +33,5 @@ My research focuses on statistical and econometric methods for forecasting and t
 - Poverty estimation
 
 - Climate econometrics
+
 
