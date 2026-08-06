@@ -26,12 +26,14 @@ I am a Juan de la Cierva research fellow in the Department of Statistics at the 
 
 My research focuses on statistical and econometric methods for forecasting and time series analysis, with applications in the following areas:
 
-- Forecasting and risk scenarios
+- Macroeconomics and finance.
 
-- Dynamic multi-level factor models
+- Forecasting and risk scenarios.
 
-- Poverty estimation
+- Dynamic multi-level factor models.
 
-- Climate econometrics
+- Poverty estimation.
+
+- Climate econometrics.
 
 
