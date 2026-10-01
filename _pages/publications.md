@@ -23,7 +23,10 @@ author_profile: true
 
 ### Statistical methods and dynamic factor models
 
-1. 2026: Factor-Augmented Regression Scenarios (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)).
+1. The empirical distribution of sequential LS factors in Multi-level Dynamic Factor Models (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[Econometrics and Statisticas, accepted; Special Issue dedicated to Hashem Pesaran]*
+
+
+2. 2026: Factor-Augmented Regression Scenarios (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)).
  *[Journal of Statistical Software, accepted](https://arxiv.org/abs/2507.10679). [CRAN Package](https://cran.r-project.org/web/packages/FARS/index.html).*
 
 ### Forecasting and risk scenarios
@@ -45,9 +48,6 @@ author_profile: true
 
 **Working papers**
 
-### Statistical methods and dynamic factor models
-
-1. The empirical distribution of sequential LS factors in Multi-level Dynamic Factor Models (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[Working paper](https://e-archivo.uc3m.es/entities/publication/d8f52e5a-87a8-4507-83b1-7d98814a9776)*
 
 ### Forecasting and risk scenarios
 
