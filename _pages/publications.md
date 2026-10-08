@@ -23,7 +23,7 @@ author_profile: true
 
 ### Statistical methods and dynamic factor models
 
-1. The empirical distribution of sequential LS factors in Multi-level Dynamic Factor Models (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[Econometrics and Statistics, accepted; Special Issue dedicated to Hashem Pesaran]*
+1. 2026: The empirical distribution of sequential LS factors in Multi-level Dynamic Factor Models (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)). *[Econometrics and Statistics, accepted; Special Issue dedicated to Hashem Pesaran]*
 
 
 2. 2026: Factor-Augmented Regression Scenarios (with Gian Pietro Bellocca (UC3M), Vladimir Rodríguez-Caballero (ITAM), and Esther Ruiz (UC3M)).
